@@ -6,3 +6,8 @@ day1
 
 day2
 <-Hello World->
+
+day3
+<-Print number entered by user->
+
+
