@@ -13,4 +13,7 @@ day3
 day4
 <-Add 2 nos (input from user)->
 
+day5
+<-Quotient & Remainder->
+
 
