@@ -16,4 +16,8 @@ day4
 day5
 <-Quotient & Remainder->
 
+day5
+<-Size of data types->
+
+
 
