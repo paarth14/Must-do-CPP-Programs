@@ -16,8 +16,11 @@ day4
 day5
 <-Quotient & Remainder->
 
-day5
+day6
 <-Size of data types->
+
+day7
+<-Swap two numbers->
 
 
 
