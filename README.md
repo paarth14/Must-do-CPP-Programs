@@ -22,5 +22,8 @@ day6
 day7
 <-Swap two numbers->
 
+day8
+<-Even or odd->
+
 
 
