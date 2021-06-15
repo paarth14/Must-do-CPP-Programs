@@ -25,5 +25,8 @@ day7
 day8
 <-Even or odd->
 
+day9
+<-Check whether vowel or consonant->
+
 
 
