@@ -28,5 +28,8 @@ day8
 day9
 <-Check whether vowel or consonant->
 
+day10
+<-Largest among 3 numbers->
+
 
 
