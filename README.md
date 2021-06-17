@@ -31,5 +31,8 @@ day9
 day10
 <-Largest among 3 numbers->
 
+day11
+<-Sum of n natural numbers->
+
 
 
