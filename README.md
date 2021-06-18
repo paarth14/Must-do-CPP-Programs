@@ -34,5 +34,8 @@ day10
 day11
 <-Sum of n natural numbers->
 
+day12
+<-Check whether a year is leap or not->
+
 
 
