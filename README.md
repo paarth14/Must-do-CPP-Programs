@@ -40,5 +40,8 @@ day12
 day13
 <-Factorial of a number->
 
+day14
+<-Generate Multiplication Table->
+
 
 
