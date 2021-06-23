@@ -49,5 +49,8 @@ day15
 day16
 <-HCF of 2 numbers->
 
+day17
+<-LCM of 2 numbers->
+
 
 
