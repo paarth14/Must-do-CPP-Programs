@@ -52,5 +52,8 @@ day16
 day17
 <-LCM of 2 numbers->
 
+day18
+<-Reverse of a number->
+
 
 
