@@ -55,5 +55,8 @@ day17
 day18
 <-Reverse of a number->
 
+day19
+<-Power of a number->
+
 
 
