@@ -61,5 +61,8 @@ day19
 day20
 <-ASCII Value of a character->
 
+day21
+<-Simple Calculator->
+
 
 
