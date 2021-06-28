@@ -58,5 +58,8 @@ day18
 day19
 <-Power of a number->
 
+day20
+<-ASCII Value of a character->
+
 
 
