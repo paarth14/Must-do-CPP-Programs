@@ -2,7 +2,7 @@
 
 
 day1
-<-Timepass->
+<-Introduction->
 
 day2
 <-Hello World->
