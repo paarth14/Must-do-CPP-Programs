@@ -64,5 +64,8 @@ day20
 day21
 <-Simple Calculator->
 
+day22
+<-Palindrome or not->
+
 
 
