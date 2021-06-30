@@ -67,5 +67,8 @@ day21
 day22
 <-Palindrome or not->
 
+day23
+<-Prime number or not->
+
 
 
