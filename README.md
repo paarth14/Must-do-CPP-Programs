@@ -1,73 +1,73 @@
 # Must-do C++ Programs 🚀
 
 
-day1
+DAY-1
 <-Introduction->
 
-day2
+DAY-2
 <-Hello World->
 
-day3
+DAY-3
 <-Print number entered by user->
 
-day4
+DAY-4
 <-Add 2 nos (input from user)->
 
-day5
+DAY-5
 <-Quotient & Remainder->
 
-day6
+DAY-6
 <-Size of data types->
 
-day7
+DAY-7
 <-Swap two numbers->
 
-day8
+DAY-8
 <-Even or odd->
 
-day9
+DAY-9
 <-Check whether vowel or consonant->
 
-day10
+DAY-10
 <-Largest among 3 numbers->
 
-day11
+DAY-11
 <-Sum of n natural numbers->
 
-day12
+DAY-12
 <-Check whether a year is leap or not->
 
-day13
+DAY-13
 <-Factorial of a number->
 
-day14
+DAY-14
 <-Generate Multiplication Table->
 
-day15
+DAY-15
 <-Display Fibonacci series->
 
-day16
+DAY-16
 <-HCF of 2 numbers->
 
-day17
+DAY-17
 <-LCM of 2 numbers->
 
-day18
+DAY-18
 <-Reverse of a number->
 
-day19
+DAY-19
 <-Power of a number->
 
-day20
+DAY-20
 <-ASCII Value of a character->
 
-day21
+DAY-21
 <-Simple Calculator->
 
-day22
+DAY-22
 <-Palindrome or not->
 
-day23
+DAY-23
 <-Prime number or not->
 
 
