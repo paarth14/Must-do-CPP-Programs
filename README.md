@@ -2,13 +2,13 @@
 
 
 DAY-1
-<-Introduction->
+<-Introduction-> 🖥️
 
 DAY-2
-<-Hello World->
+<-Hello World-> 🖥️
 
 DAY-3
-<-Print number entered by user->
+<-Print number entered by user-> 🖥️
 
 DAY-4
 <-Add 2 nos (input from user)->
