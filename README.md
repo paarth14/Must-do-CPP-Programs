@@ -70,5 +70,8 @@ DAY-22
 DAY-23
 <-Prime number or not-> 🔥
 
+DAY-24
+<-Prime number between 2 intervals-> 🔥
+
 
 
