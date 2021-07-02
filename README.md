@@ -73,5 +73,8 @@ DAY-23
 DAY-24
 <-Prime number between 2 intervals-> 🔥
 
+DAY-25
+<-Armstrong or not-> 🔥
+
 
 
