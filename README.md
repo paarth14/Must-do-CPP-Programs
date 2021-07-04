@@ -76,5 +76,9 @@ DAY-24
 DAY-25
 <-Armstrong or not-> 🔥
 
+DAY-26
+<-Display Factors of a number-> 🖥️
+
+
 
 
