@@ -29,3 +29,7 @@ int main()
     
     return 0;
 }
+
+// Enter the Binary number: 
+// 1111101000
+// Decimal number is: 1000
