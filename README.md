@@ -79,6 +79,9 @@ DAY-25
 DAY-26
 <-Display Factors of a number-> 🖥️
 
+DAY-27
+<-Binary to decimal conversion-> 🔥
+
 
 
 
