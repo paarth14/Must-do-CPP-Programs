@@ -82,6 +82,9 @@ DAY-26
 DAY-27
 <-Binary to decimal conversion-> 🔥
 
+DAY-28
+<-Decimal to Binary conversion-> 🔥
+
 
 
 
