@@ -91,6 +91,9 @@ DAY-29
 DAY-30
 <-Reverse of a Sentence-> 🖥️
 
+DAY-31
+<-Maximum & Minimum element in an array-> 🔥
+
 
 
 
