@@ -94,6 +94,10 @@ DAY-30
 DAY-31
 <-Maximum & Minimum element in an array-> 🔥
 
+DAY-32
+<-Average of Numbers Using Arrays-> 🔥
+
+
 
 
 
