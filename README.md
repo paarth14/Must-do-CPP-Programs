@@ -97,6 +97,9 @@ DAY-31
 DAY-32
 <-Average of Numbers Using Arrays-> 🔥
 
+DAY-33
+<-Input from user & print array-> 🖥️
+
 
 
 
