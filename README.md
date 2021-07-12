@@ -100,6 +100,9 @@ DAY-32
 DAY-33
 <-Input from user & print array-> 🖥️
 
+DAY-34
+<-Reverse of an array-> 🔥
+
 
 
 
