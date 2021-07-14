@@ -105,3 +105,6 @@ DAY-34
 
 DAY-35
 <-Frequency of Characters of a String Object-> 🔥
+
+DAY-36
+<-Remove all characters except alphabets-> 🔥
