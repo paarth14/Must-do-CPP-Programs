@@ -108,3 +108,6 @@ DAY-35
 
 DAY-36
 <-Remove all characters except alphabets-> 🔥
+
+DAY-37
+<-Find the Number of Vowels, Consonants, Digits and White Spaces in a String-> 🔥
